@@ -1,7 +1,8 @@
 # Sidecar Application
 implementation of redis spring security jwt authentication
 
-##Dependencies
+## Dependencies
+!! reqiured java 11
 1) Spring Security
 2) Jedis client
 3) Spring data redis
